@@ -1,0 +1,143 @@
+
+#header{
+  background-color:lightblue;
+  background-attachment:fixed;
+  position:fixed;
+  margin-right:0px;
+  top:0;
+  left:0;
+  right:0;
+  border-bottom:4px solid skyblue;
+  overflow:hidden;
+}
+.a{
+  border-radius:800px;
+  margin-left:10px;
+  margin-top:8px;
+  margin-bottom:8px;
+  margin-right:0px;
+  border:1px solid skyblue;
+  box-shadow:4px 6px 6px skyblue;
+}
+.b,.c,.d{
+  font-size:35px;
+  padding:5px;
+  margin:20px;
+  color:rgb(150,150,150);
+  text-decoration:none;
+}
+.b{
+  margin-left:300px;
+}
+.b:hover{
+  color:rgb(100,100,100);
+}
+.c:hover{
+  color:rgb(100,100,100);
+}
+.d:hover{
+  color:rgb(100,100,100);
+}
+#about{
+  background-color:rgb(170,170,170);
+  margin-left:25px;
+  margin-right:25px;
+}
+.e{
+  margin-left:80px;
+  border-radius:100%;
+  border:6px cyan;
+  margin-right:0px;
+}
+#h{
+ font-size:40px;
+ font-family:Lucida Sans Unicod;
+ color:white;
+ }
+#j{
+ background-color:rgb(230,230,230);
+ padding-left:45px;
+ padding-top:48px;
+ padding-bottom:50px;
+	margin-left:25px;
+	margin-right:25px;
+	border-bottom:4px solid grey;
+}
+#k{
+ float:right;
+ margin-top:20px;
+ margin-right:80px;
+ border-radius: 50%;
+ border-color:grey;
+ box-shadow: 4px 4px  4px grey;
+ }
+ #k:hover{
+    opacity:0.5;
+ }
+#q{
+  background-color:rgb(230,230,230);
+ padding-left:45px;
+ padding-top:48px;
+ padding-bottom:50px;
+	margin-left:25px;
+	margin-right:25px;
+	border-bottom:4px solid grey;
+}
+.p{
+  margin-top:50px;
+  margin-left:70px;
+  margin-right:0px;
+  border-radius:10px;
+  box-shadow:6px 6px 6px lightgrey;
+}
+.tr{
+ font-size:40px;
+  padding-top:50px;
+ font-family:helvetica;
+  color:rgb(100,100,100);
+}
+#link{
+  text-decoration:none;
+  font-size:40px;
+  color:rgb(100,100,100);
+}
+#link:hover{
+  color:lightblue;
+}
+#contact{
+  background-color:black;
+  padding-top:5px;
+  margin-top:0px;
+}
+#m{
+  text-align:right;
+	padding-right:60px;
+	}
+i{
+  color:white;
+}
+i:hover{
+  color:lightblue;
+}
+.foot{
+  color:white; 
+  font-family:helvetica; 
+  font-size:25px; 
+  text-decoration:none;
+}
+.foot:hover{
+  color:lightblue;
+}
+body{
+  background-color:grey;
+}
+legend{
+  text-align:center;
+}
+#top{
+  padding:7px;
+  color:white;
+  font-size:30px;
+  text-decoration:none;
+  border:1px solid white;
+}
